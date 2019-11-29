@@ -1,8 +1,4 @@
-print ("Hello world!")
+Hola,
 
 
-Y sam es muy pasivo
-
-
-Sam es peludo y violeta calva
-OASINDOAINDOSA
+Soy Felipe
